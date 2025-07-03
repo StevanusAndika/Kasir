@@ -1,4 +1,4 @@
-Berikut adalah file `README.md` untuk proyek Sistem Kasir Minimarket IPWIJA:
+
 
 ```markdown
 # Sistem Kasir Minimarket IPWIJA
@@ -92,7 +92,7 @@ Kontribusi terbuka melalui:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE)
 
 ---
-🛒 Dibuat untuk kebutuhan contoh belajar - © 2025
+🛒 Dibuat untuk kebutuhan  belajar - © 2025
 ```
 
 
